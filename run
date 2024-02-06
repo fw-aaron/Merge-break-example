@@ -1,4 +1,4 @@
 #!/bin/bash
 
-g++ test.cpp widget.cpp || exit;
+g++ test2.cpp widget.cpp || exit;
 exec ./a.out;
