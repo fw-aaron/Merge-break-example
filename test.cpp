@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    home::widget::say_hi();
+    homie::widget::say_hi();
     return 0;
 }

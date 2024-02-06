@@ -1,7 +1,7 @@
 #include "widget.hpp"
 #include <iostream>
 
-namespace home
+namespace homie
 {
     void widget::say_hi(void)
     {

@@ -1,5 +1,5 @@
 
-namespace home
+namespace homie
 {
     struct widget
     {
